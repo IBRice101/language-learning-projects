@@ -1,0 +1,1 @@
+D:\Misc\Non-Uni\Projects\language-learning-projects\1-Beginner\1-Factorial\Rust\Factorial\target\debug\Factorial.exe: D:\Misc\Non-Uni\Projects\language-learning-projects\1-Beginner\1-Factorial\Rust\Factorial\src\main.rs

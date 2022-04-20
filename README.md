@@ -10,7 +10,7 @@ The language I am currently attempting to learn is: **Rust**
 
 ## Beginner
 
-1. [] Write a program which finds the factorial of a number entered by the user.
+1. [x] Write a program which finds the factorial of a number entered by the user.
 2. [] Develop a program to convert currency X to currency Y and visa versa.
 3. [] Write a program that print out the following, user will input the top number:
 *****
