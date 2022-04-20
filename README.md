@@ -14,27 +14,33 @@ The language I am currently attempting to learn is: **Rust**
 2. [ ] Develop a program to convert currency X to currency Y and visa versa.
 3. [ ] Write a program that print out the following, user will input the top number:
 
-\*\*\*\*\* 
-\*\*\*\*
-\*\*\*
-\*\*
-\*
+```
+***** 
+****
+***
+**
+*
+```
 
 4. [ ] Write a program that print out the following, user will input the bottom number: 
 
-\*
-\*\*
-\*\*\*
-\*\*\*\*
-\*\*\*\*\*
-\*\*\*\*\*\*
+```
+*
+**
+***
+****
+*****
+******
+```
 
 5. [ ] Write a program that prints out the following triangle, the user will input the bottom number:
 
-\*
-\*\*\*
-\*\*\*\*\*
-\*\*\*\*\*\*\*
+```
+*
+***
+*****
+*******
+```
 
 6. [ ] Develop a program that uses a randomly generated number to select 1 of 3 (or more) functions to show the user.
 7. [ ] Guessing game. Write a game that asks the user to guess a number between 1 and a 100. If you guessed correctly, it will say you win. If your too high or too low it will also let you know. 
