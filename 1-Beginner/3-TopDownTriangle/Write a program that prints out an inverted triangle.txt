@@ -1,0 +1,8 @@
+    Write a program that print out the following, user will input the top number:
+
+    ***** 
+    ****
+    ***
+    **
+    *
+
