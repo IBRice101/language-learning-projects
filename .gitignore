@@ -1,0 +1,6 @@
+# cargo stuff
+**/target
+**/Cargo.lock
+
+# JetBrains (if exists)
+**/.idea
