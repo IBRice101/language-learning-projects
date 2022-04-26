@@ -1,1 +1,0 @@
-/home/isaac/Documents/USBBackup/IBRICE/Misc/Non-Uni/Projects/language-learning-projects/1-Beginner/3-TopDownTriangle/Rust/TopDownTriangle/target/debug/TopDownTriangle: /home/isaac/Documents/USBBackup/IBRICE/Misc/Non-Uni/Projects/language-learning-projects/1-Beginner/3-TopDownTriangle/Rust/TopDownTriangle/src/main.rs
