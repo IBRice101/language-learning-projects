@@ -6,6 +6,8 @@ This repository is a selection of project ideas and concepts, initially posted b
 
 Each directory in this repository represents a category of problem, the list of which is below, with subdirectories inside representing those problems, and sub-subdirectories describing the problem as implemented in specific languages. So for example the implementation of the 5th beginner project in Rust would be located in `1-Beginner/5-OddTriangle/Rust`. There is a tickbox beside each project representing whether I have achieved that task in my target language or not. 
 
+NOTE: Most problems have been tackled by first implementing them in Python, a simple language I already know how to use, before porting them over to the target language. I find this is an excellent way to learn as it allows you to avoid thinking too hard about the problem itself, and instead focus on the target language
+
 The language I am currently attempting to learn is: **Rust**
 
 ## Beginner

@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "CurrencyCOnverter"
+name = "CurrencyConverter"
 version = "0.1.0"
